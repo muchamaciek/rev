@@ -1,4 +1,4 @@
-
+<?
 
 // wersja z pojedyńczym czytaniem json
 
